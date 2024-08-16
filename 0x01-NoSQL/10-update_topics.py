@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-change school topic
+This changes school topic
 """
 import pymongo
 

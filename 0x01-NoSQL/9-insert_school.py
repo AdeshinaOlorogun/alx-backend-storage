@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-This module have a utility function that insert documents
+This module has a utility function that insert documents
 """
 import pymongo
 

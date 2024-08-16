@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-'''T12. Log stats.
+'''The T12. Log stats.
 '''
 from pymongo import MongoClient
 

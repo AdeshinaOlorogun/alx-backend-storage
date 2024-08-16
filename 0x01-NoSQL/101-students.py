@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-students
+for students
 """
 
 
 def top_students(mongo_collection):
-    """ students by score """
+    """ find students by score """
     return mongo_collection.aggregate([
         {
             "$project":

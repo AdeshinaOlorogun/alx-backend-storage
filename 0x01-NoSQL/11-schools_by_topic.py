@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-find by topic
+this is used to find by topic
 """
 import pymongo
 
